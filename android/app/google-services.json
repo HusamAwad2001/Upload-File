@@ -1,0 +1,155 @@
+{
+  "project_info": {
+    "project_number": "11054142678",
+    "firebase_url": "https://lecture1-4f7ea-default-rtdb.firebaseio.com",
+    "project_id": "lecture1-4f7ea",
+    "storage_bucket": "lecture1-4f7ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11054142678:android:e6bb480f4f9d46b1996577",
+        "android_client_info": {
+          "package_name": "com.example.assignment_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11054142678-dr80nr67jjdte6639rhdqp12rhut0tha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5UNcPQbF0KWfUjOQvWurhaHidzxZ9sAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "11054142678-dr80nr67jjdte6639rhdqp12rhut0tha.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "11054142678-5kcqqqlkil3fjksggghvnmhvrvejbevl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.lecture2"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11054142678:android:64c8497f36cc482a996577",
+        "android_client_info": {
+          "package_name": "com.example.lecture_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11054142678-dr80nr67jjdte6639rhdqp12rhut0tha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5UNcPQbF0KWfUjOQvWurhaHidzxZ9sAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "11054142678-dr80nr67jjdte6639rhdqp12rhut0tha.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "11054142678-5kcqqqlkil3fjksggghvnmhvrvejbevl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.lecture2"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11054142678:android:af99c00cdd1d6873996577",
+        "android_client_info": {
+          "package_name": "com.example.lecture_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11054142678-dr80nr67jjdte6639rhdqp12rhut0tha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5UNcPQbF0KWfUjOQvWurhaHidzxZ9sAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "11054142678-dr80nr67jjdte6639rhdqp12rhut0tha.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "11054142678-5kcqqqlkil3fjksggghvnmhvrvejbevl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.lecture2"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11054142678:android:140f9d09520c4fd1996577",
+        "android_client_info": {
+          "package_name": "com.example.upload_file"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11054142678-dr80nr67jjdte6639rhdqp12rhut0tha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5UNcPQbF0KWfUjOQvWurhaHidzxZ9sAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "11054142678-dr80nr67jjdte6639rhdqp12rhut0tha.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "11054142678-5kcqqqlkil3fjksggghvnmhvrvejbevl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.lecture2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
